@@ -25,15 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Youngjoo Suhaa',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Be patient. Do it steadily',
     contacts: {
-      email: '',
+      email: 'suhyoungjoo24@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'syj0204',
       rss: '',
       vkontakte: '',
       linkedin: '#',
